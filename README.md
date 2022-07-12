@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @harshitsingh29
+- 👀 I’m interested in competitive programming, problem solvoing and software development.
+- 🌱 I’m currently learning Java and Spring and solving leetcode problems
+- 📫 You can reach me on harsh.offical29@gmail.com or linkedin.com/in/harshitsingh29/
